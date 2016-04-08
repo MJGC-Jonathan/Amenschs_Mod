@@ -1,2 +1,5 @@
 # Amenschs_Mod
-My Modpack's Source Code is now avaible to everyone... :D
+My Edit of Amenschs_Mod for software inc.
+
+# Original Creator
+https://github.com/mykerbal/Amenschs_Mod
