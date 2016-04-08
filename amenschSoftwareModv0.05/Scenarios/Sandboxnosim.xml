@@ -1,5 +1,5 @@
 <Scenario>
-	<Name>Sandbox Simulation</Name>
+	<Name>Sandbox No Simulation</Name>
 	<Money>
 		<Amount>10000000</Amount>
 		<Amount>50000000</Amount>
@@ -22,8 +22,6 @@
 	</Years>
 	<Events>
 	</Events>
-	<Simulation>TRUE</Simulation>
+	<Simulation>FALSE</Simulation>
 	<StartingArea>10,0,247,246</StartingArea>
 </Scenario>
-
-

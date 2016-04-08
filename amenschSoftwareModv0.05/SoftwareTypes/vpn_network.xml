@@ -5,8 +5,8 @@
 	<Popularity>0.9</Popularity>
 	<OSSpecific>TRUE</OSSpecific>
 	<OneClient>FALSE</OneClient>
-	<Unlock>2006</Unlock>
-	<InHouse>FALSE</InHouse>
+	<Unlock>2000</Unlock>
+	<InHouse>True</InHouse>
 	<Retention>0.4</Retention>
 	<Iterative>0.2</Iterative>
 	<Networking>TRUE</Networking>
@@ -31,7 +31,7 @@
 			<Name>Networking</Name>
 			<Description>Without it, nothing does it's job!</Description>
 			<DevTime>2</DevTime>
-			<Innovation>0</Innovation>
+			<Innovation>2</Innovation>
 			<Usability>0.2</Usability>
 			<Stability>0.6</Stability>
 			<CodeArt>0.8</CodeArt>
