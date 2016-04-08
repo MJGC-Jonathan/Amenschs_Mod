@@ -4,8 +4,14 @@ Ghost-
 VPN-
 -base(base2)
 Client
+Connect
+View
 Surfer
 -base2(stop)
+ Hidden
+ Basic
+ Trial
+ Starter
  Pro
  Illuminated
  

@@ -6,6 +6,8 @@ System-
 -base(base2)
 Press
 Buisness
+Edit
+Review
 -base2(stop)
 Lite
 Pro

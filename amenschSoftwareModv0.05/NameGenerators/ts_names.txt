@@ -5,5 +5,8 @@ Voice-
 -base(base2)
 Speak
 Meet
+Chat
 -base2(stop)
+ Basic
+ Premium
  Pro 
